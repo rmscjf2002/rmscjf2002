@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-239DFF?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-00599C?style=flat&logo=C++&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" />
 <!--
 **rmscjf2002/rmscjf2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

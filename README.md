@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=00599C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-3178C6?style=flat-square&logo=C++&logoColor=white"/>
 
 <!--
 **rmscjf2002/rmscjf2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

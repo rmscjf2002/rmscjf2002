@@ -9,5 +9,5 @@
 
 
 # Skills
-<img src="https://img.shields.io/badge/C-239DFF?style=for-the-badge&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=for-the-badge&logo=c%2B%2B"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-239DFF?style=for-the-badge&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=for-the-badge&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 

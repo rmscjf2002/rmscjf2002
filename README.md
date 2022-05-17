@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-# BBBB
+# BaeGeunCheol
 
 <img src="https://img.shields.io/badge/-239DFF?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" />

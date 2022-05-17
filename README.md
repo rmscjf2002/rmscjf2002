@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/-239DFF?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={rlatngus1691})](https://solved.ac/{rlatngus1691})
+![GeunCheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmscjf2002&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={soong2002})](https://solved.ac/{soong2002})
 
 <!--
 **rmscjf2002/rmscjf2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

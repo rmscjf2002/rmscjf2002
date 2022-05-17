@@ -9,6 +9,6 @@
 
 
 # Skills
-<img src="https://img.shields.io/badge/-239DFF?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+![C]<img src="https://img.shields.io/badge/C-239DFF?style=flat&logo=C&logoColor=white"/>
+![C++]<img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" />
+![MySQL]<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>

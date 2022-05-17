@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-<img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/-239DFF?style=flat&logo=C&logoColor=black"/>
 <img src="https://img.shields.io/badge/-00599C?style=flat&logo=C++&logoColor=black"/>
 
 <!--

@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=239DFF&height=300&section=header&text=GeunCheol%20Bae&fontSize=90)
+https://www.notion.so/a9c6a286743147a9ad7502b0f6ba1d4e
 
 
 <br/>

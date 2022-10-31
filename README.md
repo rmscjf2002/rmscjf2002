@@ -10,6 +10,10 @@ https://whispering-deal-ca4.notion.site/a9c6a286743147a9ad7502b0f6ba1d4e
 
 <br/>
 
+## Blog
+
+https://velog.io/@rmscjf2002
+
 ## Git
 
 ![GeunCheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmscjf2002&show_icons=true&theme=radical)
